@@ -1,0 +1,4 @@
+1. Player_Idle	--> O
+2. Player_Walk	--> X
+3. Player_Attack	--> X
+4. Player_Die	--> X
