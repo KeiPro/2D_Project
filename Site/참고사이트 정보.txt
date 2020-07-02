@@ -1,0 +1,2 @@
+ CreateWindow에 관한 내용 --> http://blog.naver.com/PostView.nhn?blogId=power2845&logNo=50157909176
+전략패턴에 관한 내용 --> https://twpower.github.io/225-strategy-pattern-concept-and-example
